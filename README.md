@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aesha Modi</h1>
 <h3 align="center">A passionate Python Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Flask and Rest APIs**
+- 🌱 I’m currently learning **Rest APIs**
 
 - 📫 How to reach me **aeshamodi4@gmail.com**
 
