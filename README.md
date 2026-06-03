@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aesha Modi</h1>
-<h3 align="center">A passionate Python Backend developer from India</h3>
-
-- 🌱 I’m currently learning **Rest APIs**
+<h3 align="center">A passionate Python/AI developer from India</h3>
 
 - 📫 How to reach me **aeshamodi4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/aesha-modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aesha-modi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aesha_modi_198/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aesha_modi_198/?hl=en" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/aesham198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aesham198" height="30" width="40" /></a>
 </p>
 
